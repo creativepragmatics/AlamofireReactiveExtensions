@@ -25,5 +25,5 @@ Pod::Spec.new do |s|
     s.source_files = 'AlamofireReactiveExtensions/Classes/**/*'
 
     s.dependency 'Alamofire', '~> 4.0'
-    s.dependency 'ReactiveSwift',  '~> 3.0.0-alpha.1'
+    s.dependency 'ReactiveSwift',  '~> 4.0'
 end
